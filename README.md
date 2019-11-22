@@ -1,5 +1,8 @@
 ## Linux
-### Touch
+### curl
+* [command line 웹 요청 명령어 : curl](https://github.com/devSoyoung/command/issues/8)
+
+### touch
 * [새로운파일 생성하기 : touch](https://github.com/devSoyoung/command/issues/3)
 
 ### vi
@@ -8,21 +11,21 @@
 ***
 
 ## Git
-### Commit
+### commit
 * [commit Log 수정하기 : commit --amend](https://github.com/devSoyoung/command/issues/4)
 
-### Merge
+### merge
 * [commit 병합하기 : merge, rebase](https://github.com/devSoyoung/command/issues/5)
 
-### Pull
+### pull
 * [작업내용 가져와서 병합하기 : pull](https://github.com/devSoyoung/command/issues/7)
 
-### Rebase
+### rebase
 * [commit 병합하기 : merge, rebase](https://github.com/devSoyoung/command/issues/5)
 
-### Reset
+### reset
 * [commit 되돌리기 : reset, revert](https://github.com/devSoyoung/command/issues/2)
 * [stage 취소하기 : reset](https://github.com/devSoyoung/command/issues/1)
 
-### Revert
+### revert
 * [commit 되돌리기 : reset, revert](https://github.com/devSoyoung/command/issues/2)
